@@ -6,4 +6,4 @@ This repository captures my structed learning journey in System design, object o
 
 Use Case Covered
 1. ATM
-2. (coming soon ..)
+2. Hotel Management
